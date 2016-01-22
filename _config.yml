@@ -1,0 +1,28 @@
+name: Parker Liautaud
+favicon: null
+layout_spectrum: 0.8285633181221783
+typography_spectrum: 0.4014181604143232
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.250116053968668
+  lightness: 0.3137022699229419
+  saturation: 0.13049885025247931
+  rhythmicContrast: 0.5890647890046239
+purpose: []
